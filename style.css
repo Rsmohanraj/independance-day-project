@@ -1,0 +1,23 @@
+body
+{
+    background-image: url(./happy-independence-day.jpg);
+    font-size:xx-large;
+    color:rgb(42, 4, 78);
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+
+}
+#augest
+{
+    text-align: center;
+    margin-top: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(#ff9933,white, green);
+  
+}
+    
+
+
